@@ -8,7 +8,7 @@ In this project, we scrape job data from LinkedIn using Beautiful Soup and Selen
 # Web Scraping
 1) Beautiful Soup: A library for parsing HTML and XML documents. It creates parse trees that are helpful for extracting data from HTML.
 2) Selenium: A portable framework for testing web applications. It is also used for web scraping to interact with dynamic content.
-3) 
+
 # Visualization
 Power BI: A business analytics tool by Microsoft. It provides interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards.
 DAX Queries: Data Analysis Expressions (DAX) is a formula language used in Power BI to create custom calculations in calculated columns and measures.   
