@@ -33,7 +33,8 @@ pip install beautifulsoup4 selenium
 
 Open the Power BI report and load the cleaned data.
 Use DAX queries to create custom calculations and visualizations.
-Conclusion
+
+## Conclusion
 This project comprehensively analyses job data from LinkedIn, using advanced web scraping techniques and powerful data analysis tools. It demonstrates the effective use of Beautiful Soup and Selenium for data collection and Power BI for data visualization and analysis.
 
 You can explore the repository and use the scripts and reports for your own analysis.
